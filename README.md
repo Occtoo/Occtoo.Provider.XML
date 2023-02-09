@@ -1,20 +1,8 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Example of a XML data provider to Occtoo
+The program reads the file books.xml and converts each book element into a Dynamic Entity. They are then imported into Occtoo using the [OnboardingServiceClient](https://github.com/Occtoo/Occtoo.Onboarding.Sdk)
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+Check our documentation on [how to set up a Provider in Occtoo Studio](https://docs.occtoo.com/docs/get-started/provide-data#12-create-data-provider) to get your provider details.
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+
